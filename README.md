@@ -17,19 +17,19 @@ Operating Systems Labs Spring 2023
 [Green](green)
 
 - [Lab 1](/green/lab1.md)
-- [Lab 2](/labs/os_labs_2023/green/lab2.md)
-- [Lab 3](/labs/os_labs_2023/green/lab3.md)
-- [Lab 4](/lab/os_labs_2023/green/lab4.md)
+- [Lab 2](/green/lab2.md)
+- [Lab 3](/green/lab3.md)
+- [Lab 4](/green/lab4.md)
 
 [Amber](amber)
 
-- [Lab 5](/lab/os_labs_2023/amber/lab5.md)
-- [Lab 6](/lab/os_labs_2023/amber/lab6.md)
-- [Lab 7](lab/os_labs_2023/amber/lab7.md)
-- [Lab 8](lab/os_labs_2023/amber/lab8.md)
+- [Lab 5](/amber/lab5.md)
+- [Lab 6](/amber/lab6.md)
+- [Lab 7](/amber/lab7.md)
+- [Lab 8](/amber/lab8.md)
 
 [Red](red)
 
-- [Lab 9](lab/os_labs_2023/red/lab9.md)
-- [Lab 10](lab/os_labs_2023/red/lab10.md)
-- [Lab 11](lab/os_labs_2023/red/lab11.md)
+- [Lab 9](/red/lab9.md)
+- [Lab 10](/red/lab10.md)
+- [Lab 11](/red/lab11.md)
